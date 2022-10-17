@@ -61,7 +61,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                         builder: (context) =>
                                             const SigninScreen()));
                               }),
-                            text: "Đăng ký1",
+                            text: "Đăng ký",
                             style: const TextStyle(
                               fontSize: 22,
                               color: Colors.white,
